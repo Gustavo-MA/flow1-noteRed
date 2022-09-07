@@ -55,7 +55,9 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 Resultados
 
 A continuación puede verse una vista previa del resultado de este flow. (Se debe exportar el flow)
+![image](https://user-images.githubusercontent.com/111370930/188944728-2697e741-8bb7-47f8-8bdf-e1602db21db3.png)
 
+El contenido del JSON es el siguiente:
 [
     {
         "id": "7eac9fd5ac9c9ff3",
@@ -111,8 +113,6 @@ A continuación puede verse una vista previa del resultado de este flow. (Se deb
         "wires": []
     }
 ]
-
-
 Evidencias
 
     Repositorio github: https://github.com/Gustavo-MA
